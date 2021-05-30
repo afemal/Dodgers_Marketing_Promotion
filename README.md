@@ -12,8 +12,8 @@ Using historical data, I set out to determine when to run a marketing promotion 
   * matplotlib
   * seaborn
 
-### Data[
-Dodgers Major League Baseball](https://github.com/afemal/Dodgers_Marketing_Promotion/blob/main/data/dodgers.csv) data
+### Data
+[Dodgers Major League Baseball](https://github.com/afemal/Dodgers_Marketing_Promotion/blob/main/data/dodgers.csv) data
 
 ### Modeling Methods
 * Linear Regression
